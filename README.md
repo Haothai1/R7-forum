@@ -1,4 +1,4 @@
-# Additional Rails Skills
+# Additional Rails Skills (hellow world 123!)
 
 This repository is to be used as the base for Rails lessons 6 and 7.  The lesson information is below.
 
@@ -24,7 +24,7 @@ This repository is to be used as the base for Rails lessons 6 and 7.  The lesson
 - Implement one to many and many to many associations
 - Implement basic access control
 - Practice modifying routes, controllers, models, and views
-- Understand adding association methods to models
+- Understand adding association methods to models 
 - Practice use of the Rails console for CRUD operations
 
 ## Learning Objectives for Lesson 7.2 (week 8)
